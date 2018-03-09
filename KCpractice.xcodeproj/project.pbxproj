@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A939C90F204FCD1B00735D07 /* CalendarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A939C90E204FCD1B00735D07 /* CalendarCell.swift */; };
+		A939C9112051324B00735D07 /* menu-button-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = A939C9102051324A00735D07 /* menu-button-selected.png */; };
+		A939C9142051327E00735D07 /* user-account-box-unselected.png in Resources */ = {isa = PBXBuildFile; fileRef = A939C9122051327C00735D07 /* user-account-box-unselected.png */; };
+		A939C9152051327E00735D07 /* notifications-button-selected.png in Resources */ = {isa = PBXBuildFile; fileRef = A939C9132051327C00735D07 /* notifications-button-selected.png */; };
 		A968F536203ECD64004D339B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A968F535203ECD64004D339B /* AppDelegate.swift */; };
 		A968F538203ECD64004D339B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A968F537203ECD64004D339B /* ViewController.swift */; };
 		A968F53B203ECD64004D339B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A968F539203ECD64004D339B /* Main.storyboard */; };
@@ -14,6 +18,12 @@
 		A968F540203ECD64004D339B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A968F53E203ECD64004D339B /* LaunchScreen.storyboard */; };
 		A968F54B203ECD64004D339B /* KCpracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A968F54A203ECD64004D339B /* KCpracticeTests.swift */; };
 		A968F556203ECD65004D339B /* KCpracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A968F555203ECD65004D339B /* KCpracticeUITests.swift */; };
+		A9C6348E20404AF400E357FB /* user-account-box.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C6348B20404AF300E357FB /* user-account-box.png */; };
+		A9C6348F20404AF400E357FB /* notifications-button.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C6348C20404AF300E357FB /* notifications-button.png */; };
+		A9C6349020404AF400E357FB /* menu-button.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C6348D20404AF300E357FB /* menu-button.png */; };
+		A9C634942041B97900E357FB /* home-button.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C634932041B97900E357FB /* home-button.png */; };
+		A9C634982042EEF700E357FB /* timeTable-background.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C634972042EEF600E357FB /* timeTable-background.png */; };
+		A9C6349A2042F94500E357FB /* user1.png in Resources */ = {isa = PBXBuildFile; fileRef = A9C634992042F94400E357FB /* user1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +44,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A939C90E204FCD1B00735D07 /* CalendarCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarCell.swift; sourceTree = "<group>"; };
+		A939C9102051324A00735D07 /* menu-button-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-button-selected.png"; sourceTree = "<group>"; };
+		A939C9122051327C00735D07 /* user-account-box-unselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user-account-box-unselected.png"; sourceTree = "<group>"; };
+		A939C9132051327C00735D07 /* notifications-button-selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "notifications-button-selected.png"; sourceTree = "<group>"; };
 		A968F532203ECD64004D339B /* KCpractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KCpractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A968F535203ECD64004D339B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A968F537203ECD64004D339B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +61,12 @@
 		A968F551203ECD65004D339B /* KCpracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KCpracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A968F555203ECD65004D339B /* KCpracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KCpracticeUITests.swift; sourceTree = "<group>"; };
 		A968F557203ECD65004D339B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A9C6348B20404AF300E357FB /* user-account-box.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "user-account-box.png"; path = "../../../../assets/icon/111251-material-design/png/user-account-box.png"; sourceTree = "<group>"; };
+		A9C6348C20404AF300E357FB /* notifications-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "notifications-button.png"; path = "../../../../assets/icon/111251-material-design/png/notifications-button.png"; sourceTree = "<group>"; };
+		A9C6348D20404AF300E357FB /* menu-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "menu-button.png"; path = "../../../../assets/icon/111251-material-design/png/menu-button.png"; sourceTree = "<group>"; };
+		A9C634932041B97900E357FB /* home-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-button.png"; sourceTree = "<group>"; };
+		A9C634972042EEF600E357FB /* timeTable-background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "timeTable-background.png"; sourceTree = "<group>"; };
+		A9C634992042F94400E357FB /* user1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = user1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +117,22 @@
 		A968F534203ECD64004D339B /* KCpractice */ = {
 			isa = PBXGroup;
 			children = (
+				A939C9132051327C00735D07 /* notifications-button-selected.png */,
+				A939C9122051327C00735D07 /* user-account-box-unselected.png */,
+				A939C9102051324A00735D07 /* menu-button-selected.png */,
+				A9C634972042EEF600E357FB /* timeTable-background.png */,
 				A968F535203ECD64004D339B /* AppDelegate.swift */,
 				A968F537203ECD64004D339B /* ViewController.swift */,
 				A968F539203ECD64004D339B /* Main.storyboard */,
+				A9C634992042F94400E357FB /* user1.png */,
+				A9C634932041B97900E357FB /* home-button.png */,
+				A9C6348D20404AF300E357FB /* menu-button.png */,
+				A9C6348C20404AF300E357FB /* notifications-button.png */,
+				A9C6348B20404AF300E357FB /* user-account-box.png */,
 				A968F53C203ECD64004D339B /* Assets.xcassets */,
 				A968F53E203ECD64004D339B /* LaunchScreen.storyboard */,
 				A968F541203ECD64004D339B /* Info.plist */,
+				A939C90E204FCD1B00735D07 /* CalendarCell.swift */,
 			);
 			path = KCpractice;
 			sourceTree = "<group>";
@@ -233,8 +263,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				A968F540203ECD64004D339B /* LaunchScreen.storyboard in Resources */,
+				A939C9142051327E00735D07 /* user-account-box-unselected.png in Resources */,
 				A968F53D203ECD64004D339B /* Assets.xcassets in Resources */,
 				A968F53B203ECD64004D339B /* Main.storyboard in Resources */,
+				A9C6348F20404AF400E357FB /* notifications-button.png in Resources */,
+				A9C6349020404AF400E357FB /* menu-button.png in Resources */,
+				A9C634942041B97900E357FB /* home-button.png in Resources */,
+				A9C6349A2042F94500E357FB /* user1.png in Resources */,
+				A939C9112051324B00735D07 /* menu-button-selected.png in Resources */,
+				A9C6348E20404AF400E357FB /* user-account-box.png in Resources */,
+				A9C634982042EEF700E357FB /* timeTable-background.png in Resources */,
+				A939C9152051327E00735D07 /* notifications-button-selected.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +299,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A968F538203ECD64004D339B /* ViewController.swift in Sources */,
+				A939C90F204FCD1B00735D07 /* CalendarCell.swift in Sources */,
 				A968F536203ECD64004D339B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
